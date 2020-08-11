@@ -1,0 +1,1 @@
+print(FileExistsError.errno.__doc__)
